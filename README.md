@@ -3,5 +3,5 @@ A PHP class which provides boolean search results from multiple tables in Twitte
 ## How it works
 config.ini contains database connection information.
 database.class.php make the database connection using PDO.
-index.php contains the HTML form and is used to contain the results. Examine help text within this which show the options for displaying the results.
+index.php contains the HTML form and is used to contain the results. Examine help text within this which show the options for displaying the results.<br />
 searchpdo.class takes the search string and displays the results.
